@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-https://ecored-atlantico.github.io/260101050-CF02-Planeacion-del-Merchandising-en-puntos-de-venta/#/
+[https://ecored-atlantico.github.io/260101050-CF02-Planeacion-del-Merchandising-en-puntos-de-venta/#/](https://ecored-atlantico.github.io/63110189_CF02_Planeacion_Merchandising/)
 
 #
 
