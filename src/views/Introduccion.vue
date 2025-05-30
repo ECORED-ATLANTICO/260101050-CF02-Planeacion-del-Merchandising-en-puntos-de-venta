@@ -23,10 +23,9 @@
                 i.fas.fa-quote-left
                 p.mb-0
                   b Elementos como el diseño del espacio, el comportamiento del consumidor y las técnicas de <em>merchandising</em> son fundamentales para crear experiencias memorables y diferenciadoras.
-                p.text-right 
-                  <br> Kotler & Keller, (2016). 
                 i.fas.fa-quote-right
-      
+                p.float-end.m-0 Kotler & Keller, (2016). 
+ 
         .row.justify-content-center.my-3
           .col-lg-8
             p Se brindan herramientas conceptuales y prácticas que permiten implementar estrategias efectivas capaces de captar la atención, influir en las decisiones de compra y fomentar la fidelización. Además, se fomenta una perspectiva crítica e innovadora mediante la integración de principios como el <em>neuromarketing</em>, el <em>marketing</em> sensorial, el análisis estratégico y las tecnologías emergentes. 
@@ -35,9 +34,8 @@
                 i.fas.fa-quote-left
                 p.mb-0 
                   b Estos aspectos optimizan la interacción entre el consumidor y el punto de venta físico, adaptándose a las dinámicas del mercado y a las demandas del entorno comercial actual.
-                p.text-right 
-                  <br> Sánchez, (2019).
                 i.fas.fa-quote-right
+                p.float-end.m-0 Sánchez, (2019).
           
           .col-lg-4.col-md-8.align-content-center
             figure

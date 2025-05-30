@@ -141,7 +141,7 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Estrategias del <em>merchandising</em>',
+        titulo: 'Estrategias de atracción y experiencia del cliente',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -331,6 +331,12 @@ export default {
   referencias: [
     {
       referencia:
+        'Beltrán Espitia, G. (2018). El arte de seducir: <em>Merchandising</em> (1.ª ed.). Ecoe Ediciones. [PDF]. Recuperado de',
+      link:
+        'https://www.ecoeediciones.com/wp-content/uploads/2018/01/El-arte-de-seducir-1.pdf',
+    },
+    {
+      referencia:
         'Chiavenato, I. (2011). Administración: teoría, proceso y práctica. McGraw-Hill.',
       link: '',
     },
@@ -358,6 +364,12 @@ export default {
       referencia:
         'Lamb, C., Hair, J. & McDaniel, C. (2011). <em>Marketing. Cengage Learning.</em>',
       link: '',
+    },
+    {
+      referencia:
+        'Naranjo Giraldo, G. A. (s.f.). <em>Merchandising:</em> La seducción en el punto de venta. [PDF]. Recuperado de',
+      link:
+        'https://archivos.territorio.la/archivos/clases/MerchandisingnnnLanseduccinnnnennelnpuntondenventa___325f2adb0768086___.pdf',
     },
     {
       referencia:

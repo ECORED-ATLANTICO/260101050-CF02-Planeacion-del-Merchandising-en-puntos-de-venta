@@ -42,10 +42,9 @@
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
                 p.mb-0
-                  b La toma de decisiones es un proceso central en cualquier entorno comercial. En el punto de venta, cada decisión —desde la ubicación de un producto hasta la iluminación, el sonido o el tipo de mobiliario— impacta directamente en la percepción del cliente y, por tanto, en las ventas. Comprender este proceso es clave para diseñar experiencias coherentes y alineadas con los objetivos del negocio.” 
-                p.text-right 
-                  <br>  (Solomon, 2018). 
+                  b La toma de decisiones es un proceso central en cualquier entorno comercial. En el punto de venta, cada decisión —desde la ubicación de un producto hasta la iluminación, el sonido o el tipo de mobiliario— impacta directamente en la percepción del cliente y, por tanto, en las ventas. Comprender este proceso es clave para diseñar experiencias coherentes y alineadas con los objetivos del negocio.
                 i.fas.fa-quote-right
+                p.float-end.m-0 (Solomon, 2018). 
 
             p La toma de decisiones es una de las habilidades más poderosas dentro del mundo del mercadeo. En un punto de venta, decidir no es simplemente elegir entre alternativas, es construir una experiencia intencionada para el cliente. Cada elección, desde dónde ubicar un producto, qué tipo de mobiliario usar, cómo iluminar un espacio o qué aromas utilizar. Todo esto tiene un efecto directo en la forma en que las personas perciben y reaccionan ante la oferta comercial.
 
@@ -99,7 +98,7 @@
       div.mb-5(data-aos="fade-right").titulo-segundo.color-secundario
         h3.position-relative#t_1_3 1.3	Pasos
 
-      div.tarjeta-horz.mb-3
+      div.tarjeta-horz.mb-5
         img(src='@/assets/curso/temas/tema1/img_05.png', alt='Imagen decorativa')
         div.texto-tarjeta
           p.mb-0 Seguidamente se presentan las etapas del proceso decisorio, adaptadas al contexto del punto de venta.
@@ -110,6 +109,7 @@
       .p-4.p-md-3
         .row.justify-content-center(data-aos="zoom-in")
           .col-md-12.col-lg-10.mb-0
+            h3.mb-4 Etapas del proceso de la desición
             PasosA.color-acento-contenido.mb-5(tipo="n")
               .row(numero="1" titulo="Planear").align-items-center
                 .col-lg
@@ -130,7 +130,7 @@
               .row.align-items-center
                 .col-lg
                   h3 Formulación de alternativas
-                  p Se plantean diferentes opciones: cambiar distribución de productos, realizar promociones, rediseñar exhibidores, ajustar precios, etc.
+                  p Se plantean diferentes opciones: cambiar la distribución de productos, realizar promociones, rediseñar exhibidores, ajustar precios, etc.
                 .col-auto
                   figure(data-aos="zoom-in")
                     img(src='@/assets/curso/temas/tema1/img_08.png', alt='').img125
@@ -178,8 +178,7 @@
     .tabla-a.color-acento-botones
       .titulo-sexto.mb-4
         h5 Tabla 1. 
-        span.text-dark
-          i Etapas del proceso de decisión
+        span.text-dark Etapas del proceso de decisión
       table
         caption Fuente: Kotler, P., &amp; Keller, K. L. (2016)
         thead
@@ -306,7 +305,7 @@
                     .col-lg-4
                       img.w-75(src='@/assets/curso/temas/tema1/img_18.svg', alt='Imagen decorativa')
                     .col-lg-8
-                      h5 Coversión de visitantes
+                      h5 Conversión de visitantes
                       p Porcentaje de compras realizadas
 
 

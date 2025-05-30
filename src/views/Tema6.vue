@@ -22,7 +22,6 @@
         div(data-aos="fade-right").titulo-segundo.color-secundario
           h3.position-relative#t_6_2 6.2	Tipos y características
 
-
         p.mb-0 La experiencia del cliente en el punto de venta se construye a partir de diversas estrategias que, aplicadas de manera coherente, influyen en el comportamiento del consumidor, incrementan el tiempo de permanencia y fomentan la fidelización. Estas estrategias abarcan tanto el diseño físico del espacio como el uso de estímulos sensoriales y tecnológicos, así como la interacción humana. A continuación, se presentan los principales tipos y características de las estrategias que contribuyen a una experiencia de compra memorable y efectiva.
 
     .row.justify-content-center.mb-3
@@ -62,11 +61,11 @@
           .col-lg-6.mb-0
             .titulo-sexto.mb-4
               h5 Figura 6. 
-              span Ubicación de artículos en estantería
+              span.color-red-100 Ubicación de artículos en estantería
 
             figure.mb-4
               figure.mb-3
-                img(src='@/assets/curso/temas/tema6/img_04.svg', alt='Imagen Decorativa')
+                img(src='@/assets/curso/temas/tema6/img_04.svg', alt='La figura ilustra la ubicación de artículos en una estantería.')
 
               figcaption 
                 b Fuente: 
@@ -133,6 +132,9 @@
 
           .col-lg-10.mb-4.mx-auto
             .tabla-a.color-acento-botones.mb-5
+              .titulo-sexto.mb-4
+                  h5 Tabla 3. 
+                  span Beneficios e impactos de los planogramas
               table
                 thead
                   tr
@@ -158,8 +160,7 @@
           .col-lg-10.mb-0.mx-auto
             .titulo-sexto.mb-4
               h5 Figura 8. 
-              span.text-dark
-                i Beneficios de implementar planogramas correctamente
+              span.text-dark Beneficios de implementar planogramas correctamente
 
             figure.mb-4
               figure.mb-3
@@ -189,9 +190,8 @@
         .row.justify-content-center
           .col-lg-12.mb-0
             .titulo-sexto.mb-4
-              h5 Tabla 3. 
-              span.text-dark
-                i Uso del color en el <em>merchandising</em>
+              h5 Tabla 4. 
+              span.text-dark Uso del color en el <em>merchandising</em>
           
             .tabla-a.color-acento-botones
               table
@@ -232,7 +232,7 @@
                     td Negro
                     td Elegancia, sofisticación
                     td Transmite exclusividad y lujo
-                    td Productos premium, vitrinas de moda
+                    td Productos <em>premium</em>, vitrinas de moda
                   tr.bg-white
                     td Blanco
                     td Limpieza, pureza, simplicidad

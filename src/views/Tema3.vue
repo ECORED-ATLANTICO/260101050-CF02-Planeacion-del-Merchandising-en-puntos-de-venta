@@ -29,10 +29,9 @@
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
                 p.mb-0
-                  b El <em>merchandising</em> puede definirse como el conjunto de acciones orientadas a estimular la compra en el punto de venta, mediante la disposición, presentación y ambientación de los productos de forma estratégica.” 
-                p.text-right 
-                  <br> (Kotler & Keller, 2016).
+                  b El <em>merchandising</em> puede definirse como el conjunto de acciones orientadas a estimular la compra en el punto de venta, mediante la disposición, presentación y ambientación de los productos de forma estratégica.
                 i.fas.fa-quote-right
+                p.float-end.m-0 (Kotler & Keller, 2016).
 
           
 
@@ -131,7 +130,7 @@
                       li 
                         i.fas.fa-check-circle.bg-color-9
                         | Se enfoca en la presentación estética y atractiva del producto y el entorno.
-                    p Aplicación en punto de venta :
+                    p Aplicación en punto de venta:
                     ul.lista-ul.mb-3
                       li 
                         i.fas.fa-check-circle.bg-color-9
@@ -215,7 +214,7 @@
                     ul.lista-ul.mb-3
                       li 
                         i.fas.fa-check-circle.bg-color-9
-                        | Stands temporales, material gráfico, regalos por compra.
+                        | <em>Stands</em> temporales, material gráfico, regalos por compra.
 
         .col-lg-12.mb-2            
           .cajon.bg-03.p-4

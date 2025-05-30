@@ -29,7 +29,7 @@
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
                 p.mb-0
-                  b Según Kotler y Keller (2016), La experiencia de compra no solo se ve afectada por la necesidad del consumidor, sino también por factores del entorno como la disposición de los productos, el ambiente físico y las interacciones con el personal.” 
+                  b Según Kotler y Keller (2016), La experiencia de compra no solo se ve afectada por la necesidad del consumidor, sino también por factores del entorno como la disposición de los productos, el ambiente físico y las interacciones con el personal.
                 i.fas.fa-quote-right
           .col-lg-4.mb-3
             figure(data-aos="zoom-in")
@@ -62,14 +62,14 @@
             .col-lg-7.mb-2.mb-lg-0
               div
                 h4.mb-3 Personales
-                p Incluyen características individuales como la edad, el género, el nivel educativo, la ocupación y el estilo de vida. Estos factores determinan cuales son las preferencias, las necesidades y frecuencias de compra de cada persona.
+                p Incluyen características individuales como la edad, el género, el nivel educativo, la ocupación y el estilo de vida. Estos factores determinan cuales son las preferencias, las necesidades y las frecuencias de compra de cada persona.
                 .tarjeta.p-2.fondo_blanco_bordes.p-2
                   ul.lista-ul--separador.mb-3
                     li 
                       i.fas.fa-check-circle.bg-color-9
                       | <b>Ejemplo</b>: una madre joven con poco tiempo disponible prefiere supermercados con servicio de entrega a domicilio y productos listos para consumir.
 
-        .py-3.py-md-4(titulo="Psicologícos").p-3
+        .py-3.py-md-4(titulo="Psicológicos").p-3
           .row.justify-content-center
             .col-md-6.col-lg-5
               figure(data-aos="zoom-in")

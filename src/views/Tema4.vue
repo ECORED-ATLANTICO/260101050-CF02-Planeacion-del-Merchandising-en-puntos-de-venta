@@ -18,10 +18,9 @@
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
                 p.mb-0
-                  b Las metas representan los resultados específicos y cuantificables que se desean alcanzar dentro del marco de los objetivos planteados para la atracción y experiencia del cliente en el punto de venta. Mientras los objetivos definen la dirección estratégica general, las metas descomponen esa dirección en resultados medibles a corto, mediano o largo plazo. En este sentido, las metas actúan como indicadores de desempeño, permitiendo evaluar la efectividad de las acciones de <em>merchandising</em> y experiencia del cliente en el entorno comercial.” 
-                p.text-right 
-                  <br> (Kotler & Keller, 2016). 
+                  b Las metas representan los resultados específicos y cuantificables que se desean alcanzar dentro del marco de los objetivos planteados para la atracción y experiencia del cliente en el punto de venta. Mientras los objetivos definen la dirección estratégica general, las metas descomponen esa dirección en resultados medibles a corto, mediano o largo plazo. En este sentido, las metas actúan como indicadores de desempeño, permitiendo evaluar la efectividad de las acciones de <em>merchandising</em> y experiencia del cliente en el entorno comercial.
                 i.fas.fa-quote-right
+                p.float-end.m-0 (Kotler & Keller, 2016).
 
       separador
       
@@ -36,18 +35,20 @@
                 :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img_02.png')})`}"
               )
               .bloque-texto-g__texto.p-4
-                p Las metas deben cumplir con las características SMART, un acrónimo que resume los criterios fundamentales para su formulación:
-
+                p Las metas deben cumplir con las características <em>SMART</em>, un acrónimo que resume los criterios fundamentales para su formulación:
+          
+          .col-lg-10.mb-4
+            .titulo-sexto.mb-4
+              h5 Figura 4. 
+              span.text-dark Metas <em>SMART</em>
+          
           .col-md-12.col-lg-10.mb-4
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/temas/tema4/img_03.svg', alt='').img400.m-auto.w-auto.mb-3.d-md-block.d-none
               img(src='@/assets/curso/temas/tema4/img_03m.svg', alt='').img400.m-auto.w-auto.mb-3.d-md-none.d-block
 
 
-          .col-lg-10.mb-4
-            .titulo-sexto.mb-4
-              h5 Figura 4. 
-              span.text-dark Metas <em>SMART</em>
+         
 
             figure.mb-4
               figure.mb-3
@@ -101,10 +102,10 @@
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
                 p.mb-0
-                  b El establecimiento de metas precisas permite al equipo comercial focalizar esfuerzos, asignar recursos de forma eficiente y diseñar planes de acción alineados con los resultados esperados. Además, facilita la toma de decisiones basada en indicadores clave de rendimiento (KPI), permitiendo una gestión proactiva y orientada al logro.” 
-                p.text-right 
-                  <br> (Chiavenato, 2011).
+                  b El establecimiento de metas precisas permite al equipo comercial focalizar esfuerzos, asignar recursos de forma eficiente y diseñar planes de acción alineados con los resultados esperados. Además, facilita la toma de decisiones basada en indicadores clave de rendimiento (KPI), permitiendo una gestión proactiva y orientada al logro.
                 i.fas.fa-quote-right
+                p.float-end.m-0 (Chiavenato, 2011).
+          
           .col-lg-4.mb-4
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/temas/tema4/img_11.png', alt='').img400
@@ -119,7 +120,7 @@
 
             figure.mb-4
               figure.mb-3
-                img(src='@/assets/curso/temas/tema4/img_10.svg', alt='Las metas claras son importantes porque: Orientan el trabajo del equipo hacia objetivos definidos.Facilitan el uso eficiente de recursos.Permiten diseñar planes de acción alineados con los resultados esperados.Ayudan en la toma de decisiones con base en indicadores clave (KPI).Sirven para evaluar el desempeño del equipo.Motivan y fortalecen el sentido de propósito común.')
+                img(src='@/assets/curso/temas/tema4/img_10.svg', alt='Las metas claras son importantes porque: Orientan el trabajo del equipo hacia objetivos definidos. Facilitan el uso eficiente de recursos. Permiten diseñar planes de acción alineados con los resultados esperados. Ayudan en la toma de decisiones con base en indicadores clave (KPI). Sirven para evaluar el desempeño del equipo. Motivan y fortalecen el sentido de propósito común.')
 
               figcaption 
                 b Fuente: 

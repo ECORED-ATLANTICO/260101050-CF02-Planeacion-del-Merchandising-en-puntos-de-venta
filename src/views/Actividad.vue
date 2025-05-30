@@ -91,7 +91,7 @@ export default {
         {
           id: 4,
           texto:
-            'Las metas del merchandising deben ser específicas, medibles, alcanzables, relevantes y temporales (SMART).',
+            'Las metas del merchandising deben ser específicas, medibles, alcanzables, relevantes y temporales <em>(SMART)</em>.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
