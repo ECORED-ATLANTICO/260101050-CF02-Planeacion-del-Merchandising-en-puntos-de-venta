@@ -23,8 +23,9 @@
                 i.fas.fa-quote-left
                 p.mb-0
                   b Elementos como el diseño del espacio, el comportamiento del consumidor y las técnicas de <em>merchandising</em> son fundamentales para crear experiencias memorables y diferenciadoras.
+                <br> - Kotler & Keller, (2016). 
                 i.fas.fa-quote-right
-                p.float-end.m-0 Kotler & Keller, (2016). 
+                
  
         .row.justify-content-center.my-3
           .col-lg-8
@@ -34,14 +35,15 @@
                 i.fas.fa-quote-left
                 p.mb-0 
                   b Estos aspectos optimizan la interacción entre el consumidor y el punto de venta físico, adaptándose a las dinámicas del mercado y a las demandas del entorno comercial actual.
+                <br> - Sánchez, (2019).
                 i.fas.fa-quote-right
-                p.float-end.m-0 Sánchez, (2019).
+                
           
           .col-lg-4.col-md-8.align-content-center
             figure
               img.my-3(src='@/assets/curso/temas/intro/img02.png', alt='Imagen decorativa')
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/MGVBwD8a0RE?si=R4IHWYgmUlfQVQot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/nTZF6ek4fY4?si=kk1YXF7gk-PyEqzg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Nota: Sena (2024).   
     
 </template>

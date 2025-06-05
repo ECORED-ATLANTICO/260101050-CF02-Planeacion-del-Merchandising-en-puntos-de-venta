@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido.mb-0
       .titulo-principal__numero
         span 4
-      h1 Metas en el punto de venta
+      h1 Metas
 
     .bg-full-width.bg-fondo-7.mb-0
       .p-4.p-md-5.mb-0
@@ -19,8 +19,9 @@
                 i.fas.fa-quote-left
                 p.mb-0
                   b Las metas representan los resultados específicos y cuantificables que se desean alcanzar dentro del marco de los objetivos planteados para la atracción y experiencia del cliente en el punto de venta. Mientras los objetivos definen la dirección estratégica general, las metas descomponen esa dirección en resultados medibles a corto, mediano o largo plazo. En este sentido, las metas actúan como indicadores de desempeño, permitiendo evaluar la efectividad de las acciones de <em>merchandising</em> y experiencia del cliente en el entorno comercial.
+                <br> - (Kotler & Keller, 2016).
                 i.fas.fa-quote-right
-                p.float-end.m-0 (Kotler & Keller, 2016).
+               
 
       separador
       
@@ -44,8 +45,8 @@
           
           .col-md-12.col-lg-10.mb-4
             figure(data-aos="zoom-in")
-              img(src='@/assets/curso/temas/tema4/img_03.svg', alt='').img400.m-auto.w-auto.mb-3.d-md-block.d-none
-              img(src='@/assets/curso/temas/tema4/img_03m.svg', alt='').img400.m-auto.w-auto.mb-3.d-md-none.d-block
+              img(src='@/assets/curso/temas/tema4/img_03.svg', alt='Se ilustran las metas SMART Específicas (Specific), Medibles (Measurable), Alcanzables (Achievable), Relevantes (Relevant), Temporales (Time-bound)').img400.m-auto.w-auto.mb-3.d-md-block.d-none
+              img(src='@/assets/curso/temas/tema4/img_03m.svg', alt='Se ilustran las metas SMART Específicas (Specific), Medibles (Measurable), Alcanzables (Achievable), Relevantes (Relevant), Temporales (Time-bound)').img400.m-auto.w-auto.mb-3.d-md-none.d-block
 
 
          
@@ -103,8 +104,9 @@
                 i.fas.fa-quote-left
                 p.mb-0
                   b El establecimiento de metas precisas permite al equipo comercial focalizar esfuerzos, asignar recursos de forma eficiente y diseñar planes de acción alineados con los resultados esperados. Además, facilita la toma de decisiones basada en indicadores clave de rendimiento (KPI), permitiendo una gestión proactiva y orientada al logro.
+                <br> - (Chiavenato, 2011).
                 i.fas.fa-quote-right
-                p.float-end.m-0 (Chiavenato, 2011).
+                
           
           .col-lg-4.mb-4
             figure(data-aos="zoom-in")

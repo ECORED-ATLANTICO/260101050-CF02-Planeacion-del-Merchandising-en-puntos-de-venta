@@ -43,8 +43,9 @@
                 i.fas.fa-quote-left
                 p.mb-0
                   b La toma de decisiones es un proceso central en cualquier entorno comercial. En el punto de venta, cada decisión —desde la ubicación de un producto hasta la iluminación, el sonido o el tipo de mobiliario— impacta directamente en la percepción del cliente y, por tanto, en las ventas. Comprender este proceso es clave para diseñar experiencias coherentes y alineadas con los objetivos del negocio.
+                <br> - (Solomon, 2018). 
                 i.fas.fa-quote-right
-                p.float-end.m-0 (Solomon, 2018). 
+                
 
             p La toma de decisiones es una de las habilidades más poderosas dentro del mundo del mercadeo. En un punto de venta, decidir no es simplemente elegir entre alternativas, es construir una experiencia intencionada para el cliente. Cada elección, desde dónde ubicar un producto, qué tipo de mobiliario usar, cómo iluminar un espacio o qué aromas utilizar. Todo esto tiene un efecto directo en la forma en que las personas perciben y reaccionan ante la oferta comercial.
 
