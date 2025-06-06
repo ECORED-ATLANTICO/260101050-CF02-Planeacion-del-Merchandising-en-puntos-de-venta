@@ -40,11 +40,9 @@
           .col-lg-8.mb-4
             .bloque-texto-b.mb-3
               .bloque-texto-b__texto
-                i.fas.fa-quote-left
                 p.mb-0
                   b La toma de decisiones es un proceso central en cualquier entorno comercial. En el punto de venta, cada decisión —desde la ubicación de un producto hasta la iluminación, el sonido o el tipo de mobiliario— impacta directamente en la percepción del cliente y, por tanto, en las ventas. Comprender este proceso es clave para diseñar experiencias coherentes y alineadas con los objetivos del negocio.
                 <br> - (Solomon, 2018). 
-                i.fas.fa-quote-right
                 
 
             p La toma de decisiones es una de las habilidades más poderosas dentro del mundo del mercadeo. En un punto de venta, decidir no es simplemente elegir entre alternativas, es construir una experiencia intencionada para el cliente. Cada elección, desde dónde ubicar un producto, qué tipo de mobiliario usar, cómo iluminar un espacio o qué aromas utilizar. Todo esto tiene un efecto directo en la forma en que las personas perciben y reaccionan ante la oferta comercial.
@@ -203,6 +201,7 @@
 
     .bg-full-width.bg-fondo-3
       .p-4.p-md-5
+        p Como señalan Hoyer et al. (2013), las decisiones en el punto de venta no solo deben responder al contexto inmediato, sino también a los objetivos de largo plazo de la marca, incluyendo la generación de experiencias positivas y la construcción de lealtad. También, el uso de herramientas permite a los gestores comerciales tomar decisiones con un respaldo técnico y estratégico, alineado con los objetivos del negocio (West, Ford & Ibrahim, 2015).
         .row.justify-content-center.my-3(data-aos="zoom-in")
           .col-lg-12.mb-4
             .titulo-sexto.mb-4
@@ -309,7 +308,7 @@
                       h5 Conversión de visitantes
                       p Porcentaje de compras realizadas
 
-
+            p Para realizar una efectiva toma de decisiones se debe contar con herramientas tales como el análisis DOFA, los estudios de comportamiento del consumidor, los mapas de calor y los indicadores de gestión (KPI).
         .row.justify-content-center.my-3(data-aos="zoom-in")
           .col-lg-7
             .tarjeta.tarjeta-bg-03.p-3.bordes-tarjeta

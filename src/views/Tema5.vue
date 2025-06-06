@@ -27,10 +27,9 @@
           .col-lg-8.mb-3
             .bloque-texto-b
               .bloque-texto-b__texto
-                i.fas.fa-quote-left
                 p.mb-0
                   b Según Kotler y Keller (2016), La experiencia de compra no solo se ve afectada por la necesidad del consumidor, sino también por factores del entorno como la disposición de los productos, el ambiente físico y las interacciones con el personal.
-                i.fas.fa-quote-right
+
           .col-lg-4.mb-3
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/temas/tema5/img_02.png', alt='').img400

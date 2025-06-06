@@ -27,11 +27,9 @@
           .col-lg-9.mb-4
             .bloque-texto-b.mb-3
               .bloque-texto-b__texto
-                i.fas.fa-quote-left
                 p.mb-0
                   b El <em>merchandising</em> puede definirse como el conjunto de acciones orientadas a estimular la compra en el punto de venta, mediante la disposición, presentación y ambientación de los productos de forma estratégica.
                 <br> - (Kotler & Keller, 2016)
-                i.fas.fa-quote-right
           
 
           .row.align-items-start

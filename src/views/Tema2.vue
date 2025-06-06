@@ -21,11 +21,9 @@
           .col-lg-8.mb-4
             .bloque-texto-b.mb-3
               .bloque-texto-b__texto
-                i.fas.fa-quote-left
                 p.mb-0
                   b El <em>merchandising</em> es el conjunto de técnicas aplicadas en el punto de venta con el objetivo de optimizar la presentación de los productos, influir en la decisión de compra del consumidor y maximizar la rentabilidad del negocio. Se fundamenta en principios de <em>marketing</em>, psicología del consumidor y gestión comercial. 
                 <br> - (Gómez, 2020). 
-                i.fas.fa-quote-right
                 
 
             p Los principios básicos del <em>merchandising</em> incluyen: visibilidad, accesibilidad, atractivo visual y coherencia con la marca (Solé, 2017).

@@ -20,11 +20,9 @@
               | aborda la importancia del entorno competitivo en el comercio actual, donde el punto de venta se consolida como un espacio estratégico que conecta emociones, decisiones de compra e identidad de marca. Más que un lugar de transacción, este se convierte en un escenario clave para influir en la percepción del consumidor, fortalecer la imagen de marca y construir relaciones a largo plazo.
             .bloque-texto-b
               .bloque-texto-b__texto
-                i.fas.fa-quote-left
                 p.mb-0
-                  b Elementos como el diseño del espacio, el comportamiento del consumidor y las técnicas de <em>merchandising</em> son fundamentales para crear experiencias memorables y diferenciadoras.
+                  b Elementos como el diseño del espacio, el comportamiento del consumidor y las técnicas de <em>merchandising</em> son fundamentales para crear experiencias memorables y diferenciadoras.    
                 <br> - Kotler & Keller, (2016). 
-                i.fas.fa-quote-right
                 
  
         .row.justify-content-center.my-3
@@ -32,11 +30,9 @@
             p Se brindan herramientas conceptuales y prácticas que permiten implementar estrategias efectivas capaces de captar la atención, influir en las decisiones de compra y fomentar la fidelización. Además, se fomenta una perspectiva crítica e innovadora mediante la integración de principios como el <em>neuromarketing</em>, el <em>marketing</em> sensorial, el análisis estratégico y las tecnologías emergentes. 
             .bloque-texto-b
               .bloque-texto-b__texto
-                i.fas.fa-quote-left
                 p.mb-0 
                   b Estos aspectos optimizan la interacción entre el consumidor y el punto de venta físico, adaptándose a las dinámicas del mercado y a las demandas del entorno comercial actual.
                 <br> - Sánchez, (2019).
-                i.fas.fa-quote-right
                 
           
           .col-lg-4.col-md-8.align-content-center
